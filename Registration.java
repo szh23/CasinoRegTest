@@ -34,7 +34,7 @@ public class Registration {
 		
 		Thread.sleep(1000);
 		
-		regPageObj.firstName("Munio");
+		regPageObj.firstName("Testovi");
 		regPageObj.lastName("Testoviq");
 		regPageObj.zipCode("1000");
 		regPageObj.address("Opulchenska 23");
